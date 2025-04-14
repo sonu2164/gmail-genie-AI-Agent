@@ -1,6 +1,7 @@
 # Gmail Manager - AI-Powered Email Assistant
 
-![Gmail Manager Screenshot](https://i.imgur.com/JfQvX9E.png)
+![image](https://github.com/user-attachments/assets/bfaf4479-b59d-40d9-ab40-1ec4059b233d)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
